@@ -16,6 +16,9 @@
 ;	  gmx pdb2gmx -f 1UBQ.pdb -o ubq_new.pdb
 ;	Force field was read from the standard GROMACS share directory.
 ;
+; Ionic liquids parameters are availabe at:
+; Virtual Site OPLS Force Field for Imidazolium-Based Ionic Liquids, J. Phys. Chem. B 2018, 122, 11, 2962–2974
+; Github : http://github.com/orlandoacevedo/IL
 
 #define _FF_OPLS
 #define _FF_OPLSAA
