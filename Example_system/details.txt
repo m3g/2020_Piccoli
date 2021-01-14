@@ -1,0 +1,7 @@
+
+ The file "topola.top" act as a model for the script  "input_gen.jl". input_gen will read topola.top and write topol.top. This file contains the information of protein, water, and ionic liquids parameters to run a Gromacs simulation.
+  
+topola.top is a model just for simulations of ubiquitin with different ionic liquids as EMIMDCA, EMIMBF4, BMIMNO3, etc.
+
+
+
